@@ -5,7 +5,7 @@ EmailPilot is a retention-marketing platform for Klaviyo email and SMS. This plu
 ## Requirements
 
 - An EmailPilot account with a connected Klaviyo account.
-- A 7-day free trial with a card on file, then a paid subscription.
+- A 7-day free trial (card required), then $99/month (or $990/year) for one Klaviyo brand.
 
 ## What's included
 
