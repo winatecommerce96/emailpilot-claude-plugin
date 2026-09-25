@@ -1,0 +1,11 @@
+{
+  "name": "emailpilot",
+  "displayName": "EmailPilot",
+  "version": "1.0.0",
+  "description": "Plan, review and forecast Klaviyo email and SMS campaigns with EmailPilot.",
+  "author": { "name": "EmailPilot.ai", "url": "https://emailpilot.ai" },
+  "homepage": "https://emailpilot.ai",
+  "repository": "https://github.com/winatecommerce96/emailpilot-claude-plugin",
+  "license": "MIT",
+  "keywords": ["email marketing", "klaviyo", "sms", "retention"]
+}
